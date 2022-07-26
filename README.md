@@ -1,1 +1,1 @@
-This was Canvas Project which uses the Fabric .js library 
+This is the  Canvas Project which uses the Fabric .js library 
